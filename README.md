@@ -2,10 +2,6 @@
 
 💬 Meu nome é Diego, tenho 20 anos e estou estudando desenvolvimento web, com foco em backend utilizando Node.js.
 
-🔭 Um dos meus projetos é o ![Deeplocal](https://github.com/diegoarauj0/deeplocal-client
-), uma aplicação que reúne múltiplos links — como sites e redes sociais — em uma única página, facilitando o compartilhamento de perfis em um só lugar.
-
-
 <img width="960" height="464" alt="s7iIvfD" src="https://github.com/user-attachments/assets/6e00c084-9391-46ed-a07b-5c41306e6b00" />
 
 ---
