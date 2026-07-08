@@ -43,7 +43,7 @@
 
 ---
 
-<p align="center"><strong><a href="https://dev.diegoarauj0.github.io/">Website</a></strong></p>
+<p align="center"><strong><a href="https://dev.diegoarauj0.qzz.io/">Website</a></strong></p>
 
 <div align="center">
   <img width="128" height="128" alt="face" src="https://github.com/user-attachments/assets/50e6f732-7a45-4668-8b1c-950434d8df86" />
